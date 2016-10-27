@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">SampleApp</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world">Rotate screen to simulate a new visit</string>
+
+    <string name="rate_message">Send private message</string>
+    <string name="rate_mail">Send email</string>
+    <string name="rate_leave_feedback">Please help %s improve by leaving me some feedback</string>
+
 </resources>

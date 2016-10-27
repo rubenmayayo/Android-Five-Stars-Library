@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FiveStarsLibrary</string>
+    <string name="rate_ok">Rate in Google Play</string>
+    <string name="rate_later">Later</string>
+    <string name="rate_never">No, thanks</string>
+    <string name="rate_thanks">Thanks!</string>
+    <string name="rate_in_gp">Would you mind taking a moment to rate %s in Google Play? Thanks for your support!</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="rate_positive">Rate</string>
+    <string name="rate_mail">Send email</string>
+    <string name="rate_visit">Go to /r/BoostForReddit</string>
+    <string name="rate_this_app_title">Do you like this app?</string>
 </resources>
