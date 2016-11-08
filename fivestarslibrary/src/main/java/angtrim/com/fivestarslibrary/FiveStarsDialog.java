@@ -110,7 +110,7 @@ public class FiveStarsDialog {
     private void disable() {
         SharedPreferences shared = context.getSharedPreferences(context.getPackageName(), Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = shared.edit();
-        editor.putBoolean(SP_DISABLED, false);
+        editor.putBoolean(SP_DISABLED, true);
         editor.apply();
     }
 

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SampleApp</string>
 
-    <string name="hello_world">Rotate screen to simulate a new visit</string>
+    <string name="hello_world">Rotate screen to simulate a new visit to this screen</string>
 
     <string name="rate_message">Send private message</string>
     <string name="rate_mail">Send email</string>
